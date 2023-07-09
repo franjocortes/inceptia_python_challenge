@@ -2,8 +2,11 @@
 Python dev challenge for inceptia
 
 The project was developed with a menu of options to access the different exercises.
+
 Each one is with preconfigured parameters.
+
 In main.py the calls of each exercise are accessed with the options that are sent, they can be changed for different tests.
+
 * exercise 2.2 is commented, it can be uncommented to test it.
 
 
